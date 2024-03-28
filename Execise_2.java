@@ -27,7 +27,11 @@ public class Execise_2 {
 
         if(human.equals(computer)){
             System.out.println(computer);
-            System.out.println("You Win");
+            System.out.println("Draw");
+        }
+        else if(human.equals("Sissor")){
+            System.out.println(computer);
+            System.out.println("Draw");
         }
         else{
             System.out.println(computer);
