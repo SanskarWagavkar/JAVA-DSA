@@ -23,9 +23,7 @@ class cyclinder{
 
 public class Cyclinder_class {
     public static void main(String[] args) {
-        cyclinder c = new cyclinder();
-        c.set_radius(5);
-        System.out.println(c.get_radius());
+        
         c.set_hiegth(12);
         System.out.println(c.get_heigth());
     }
