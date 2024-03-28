@@ -1,7 +1,5 @@
 package Practice_set_7;
 
-import java.util.*;
-
 public class Pattern_using_recursion {
 
     static void pattern(int n){
