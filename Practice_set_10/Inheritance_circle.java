@@ -10,8 +10,8 @@ class circle{
 }
 class cyclinder extends circle{
     int heigth;
+    
     double area(int radius, int heigth){
-        
         this.radius = radius;
         this.heigth = heigth;
 
@@ -26,6 +26,6 @@ public class Inheritance_circle {
         circle c = new circle();
         System.out.println(c.area(5));
         cyclinder cl = new cyclinder();
-        System.out.println(cl.area(2,5));
+        System.out.println(cl.area(12,4));
     }
 }
