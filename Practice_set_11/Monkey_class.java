@@ -42,5 +42,9 @@ public class Monkey_class {
         Human h = new Human();
         h.eat();
         h.sleep();
+
+        Monkey m1 = new Human(); // Polymerizum
+        m1.jump();
+        m1.bite();
     }
 }
