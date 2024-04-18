@@ -1,5 +1,5 @@
-a = 20
-b = 40
+a = 40
+b = 20
 
 factor_a = []
 factor_b = []
